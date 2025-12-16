@@ -9,7 +9,7 @@
          alt="Donate with PayPal" style="border: 0;">
 </a>
 <a href="https://www.paypal.com/donate/?hosted_button_id=JCVW2JFJMBPKE" class="paypal-button" target="_blank">
-    💙 Buy me a coffee Support Me with PayPal
+    💙 Buy me a coffee – support the addon
 </a>
 
 ## 📋 Table of Contents
