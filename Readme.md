@@ -1,68 +1,102 @@
 # EnchantSearch
+[![Version](https://img.shields.io/github/v/release/YourGitHubUsername/EnchantSearch?color=blue&label=version)](https://github.com/YourGitHubUsername/EnchantSearch/releases)
 ![WoW Version](https://img.shields.io/badge/WoW-1.12.1-ff69b4)
 ![License](https://img.shields.io/badge/license-MIT-green)
+[![Latest ZIP](https://img.shields.io/badge/dynamic/json?color=success&label=Latest&query=$.assets[0].download_count&url=https://api.github.com/repos/YourGitHubUsername/EnchantSearch/releases/latest)](https://github.com/YourGitHubUsername/EnchantSearch/releases/latest) 
 
-A lightweight **search and navigation addon for the Craft / Enchanting window** in  
-**World of Warcraft Vanilla (1.12.1)**.
-
----
+<a href="https://www.paypal.com/donate/?hosted_button_id=YOUR_PAYPAL_ID" target="_blank">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" 
+         alt="Donate with PayPal" style="border: 0;">
+</a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=YOUR_PAYPAL_ID" class="paypal-button" target="_blank">
+    💙 Support Me with PayPal
+</a>
 
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [How It Works](#how-it-works)
 - [Compatibility](#compatibility)
-- [Known Limitations](#known-limitations)
 - [License](#license)
-
----
 
 ## 📝 Overview
 
-**EnchantSearch** enhances the default **CraftFrame** in WoW 1.12.1 by adding a real-time
-search box for enchantments.
+**EnchantSearch** enhances the default **CraftFrame** in WoW 1.12.1 by adding a real-time search box for enchantments.
 
-The addon is designed for players with many enchants and recipes, making it fast and
-easy to locate specific enchants without manually expanding and scrolling through
-the entire list.
+It allows you to:
+- Instantly filter enchant recipes by name
+- Jump directly to the selected enchant
+- Automatically expand collapsed headers
+- Preview enchant stats via tooltip integration
 
-The addon is written **specifically for the WoW 1.12.1 API** and avoids modern UI
-functions to ensure full Vanilla compatibility.
-
----
+This addon is written **exclusively for the WoW 1.12.1 API** and avoids modern functions to ensure full Vanilla compatibility.
 
 ## ✨ Features
 
-- 🔍 **Live Search**
-  - Search enchantments by name
-  - Case-insensitive filtering
-  - Results update instantly while typing
+- **Live Search Box**
+  - Search enchantments by typing part of the name
+  - Case-insensitive, instant filtering
+  - Clears results automatically on escape
 
-- 📌 **Smart Navigation**
-  - Automatically expands collapsed headers
-  - Scrolls the craft list to the correct recipe
-  - Selects the enchant directly
+- **Smart Navigation**
+  - Automatically expands required headers
+  - Scrolls the Craft list to the correct position
+  - Selects the recipe directly
 
-- 🎨 **Blizzard Difficulty Colors**
-  - Optimal (Orange)
-  - Medium (Yellow)
-  - Easy (Green)
-  - Trivial (Grey)
-  - Includes a colored indicator bar next to each result
-
-- 🧾 **Tooltip Stat Preview**
+- **Tooltip Stat Preview**
   - Hovering a result shows the enchant name
   - Displays enchant stats if available via `EnchantStatsDB`
 
-- 🎯 **Clean UI Integration**
+- **Clean UI Integration**
   - Appears only when the Craft window is opened
-  - Auto-adjusts positioning when using **pfUI**
-
----
+  - Auto-adjusts positioning for pfUI
 
 ## 🛠️ Installation
 
-1. Download or clone the addon
-2. Extract the folder into:
+1. **Download the Addon:**  
+   [![⬇ DOWNLOAD](https://img.shields.io/github/downloads/YourGitHubUsername/EnchantSearch/total?style=for-the-badge&color=00b4d8&label=⬇+DOWNLOAD)](https://github.com/YourGitHubUsername/EnchantSearch/releases)
+
+2. **Extract Files:**  
+   - Extract the contents to your WoW addons directory:
+     ```
+     World of Warcraft/Interface/AddOns
+     ```
+   - Make sure the folder name is `EnchantSearch`.
+
+3. **Enable the Addon:**  
+   - Launch WoW and go to the AddOns menu from the character selection screen.  
+   - Ensure that the addon is enabled in the list.
+
+## 🚀 Usage
+
+1. Open a profession that uses the **CraftFrame** (e.g. Enchanting)
+2. The **Search box** will appear automatically
+3. Start typing to filter enchantments
+4. Click a result to:
+   - Expand headers
+   - Scroll to the recipe
+   - Select it automatically
+5. Press **Escape** to clear search and hide results
+
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="/ScreenShots/enchantsearch1.png" alt="Search Box" width="400">
+  <img src="/ScreenShots/enchantsearch2.png" alt="Search Results" width="400">
+</p>
+
+## 🔌 Compatibility
+
+- ✅ WoW 1.12.1
+- ✅ Enchanting profession
+- ✅ Works with pfUI
+
+
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+💙 Contributions and feedback are welcome!
