@@ -60,7 +60,7 @@ This addon is written **exclusively for the WoW 1.12.1 API** and avoids modern f
 ## 🛠️ Installation
 
 1. **Download the Addon:**  
-   👉👉👉[![⬇ DOWNLOAD](https://img.shields.io/github/downloads/YourGitHubUsername/EnchantSearch/total?style=for-the-badge&color=00b4d8&label=⬇+DOWNLOAD)](https://github.com/pumpan/EnchantSearch/releases)👈👈👈
+   👉👉👉[![⬇ DOWNLOAD](https://img.shields.io/github/downloads/pumpan/EnchantSearch/total?style=for-the-badge&color=00b4d8&label=⬇+DOWNLOAD)](https://github.com/pumpan/EnchantSearch/releases)👈👈👈
 
 2. **Extract Files:**  
    - Extract the contents to your WoW addons directory:
