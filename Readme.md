@@ -1,8 +1,9 @@
 # EnchantSearch
-[![Version](https://img.shields.io/github/v/release/YourGitHubUsername/EnchantSearch?color=blue&label=version)](https://github.com/YourGitHubUsername/EnchantSearch/releases)
+[![Version](https://img.shields.io/github/v/release/pumpan/EnchantSearch?color=blue&label=version)](https://github.com/pumpan/EnchantSearch/releases)
 ![WoW Version](https://img.shields.io/badge/WoW-1.12.1-ff69b4)
 ![License](https://img.shields.io/badge/license-MIT-green)
-[![Latest ZIP](https://img.shields.io/badge/dynamic/json?color=success&label=Latest&query=$.assets[0].download_count&url=https://api.github.com/repos/YourGitHubUsername/EnchantSearch/releases/latest)](https://github.com/YourGitHubUsername/EnchantSearch/releases/latest) 
+[![Latest ZIP](https://img.shields.io/badge/dynamic/json?color=success&label=Latest&query=$.assets[0].download_count&url=https://api.github.com/repos/pumpan/EnchantSearch/releases/latest)](https://github.com/pumpan/EnchantSearch/releases/latest)
+
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=JCVW2JFJMBPKE" target="_blank">
     <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" 
@@ -59,7 +60,7 @@ This addon is written **exclusively for the WoW 1.12.1 API** and avoids modern f
 ## 🛠️ Installation
 
 1. **Download the Addon:**  
-   👉👉👉[![⬇ DOWNLOAD](https://img.shields.io/github/downloads/YourGitHubUsername/EnchantSearch/total?style=for-the-badge&color=00b4d8&label=⬇+DOWNLOAD)](https://github.com/YourGitHubUsername/EnchantSearch/releases)👈👈👈
+   👉👉👉[![⬇ DOWNLOAD](https://img.shields.io/github/downloads/YourGitHubUsername/EnchantSearch/total?style=for-the-badge&color=00b4d8&label=⬇+DOWNLOAD)](https://github.com/pumpan/EnchantSearch/releases)👈👈👈
 
 2. **Extract Files:**  
    - Extract the contents to your WoW addons directory:
