@@ -33,7 +33,7 @@ It allows you to:
 This addon is written **exclusively for the WoW 1.12.1 API** and avoids modern functions to ensure full Vanilla compatibility.
 
 <p align="center">
-  <img src="screenshot.jpg" alt="Search Box" width="400">
+  <img src="EnchantSearch/screenshot.jpg" alt="Search Box" width="400">
 </p>
 
 ## ✨ Features
