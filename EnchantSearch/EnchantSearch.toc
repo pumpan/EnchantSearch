@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: EnchantSearch
+## Notes: Search box for Enchanting in WoW 1.12.1
+## Author: Pumpan
+## Version: 1.0
+
+Crafting\EnchantingDB.lua
+EnchantSearch.lua
