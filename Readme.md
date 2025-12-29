@@ -23,7 +23,7 @@
 
 ## 📝 Overview
 
-**EnchantSearch** enhances the default **CraftFrame** in WoW 1.12.1 by adding a real-time search box for enchantments.
+**EnchantSearch** enhances the default **CraftFrame** in WoW **1.12.1** and **1.14.2** by adding a real-time search box for enchantments.
 
 <p align="center">
   <img src="EnchantSearch/screenshot.jpg" alt="Search Box" width="600">
@@ -35,7 +35,7 @@ It allows you to:
 - Automatically expand collapsed headers
 - Preview enchant stats via tooltip integration
 
-This addon is written **exclusively for the WoW 1.12.1 API** and avoids modern functions to ensure full Vanilla compatibility.
+It supports both **WoW 1.12.1 (Vanilla)** and **WoW 1.14.2 (Classic)** make sure to download the correct version for your client
 
 ## ✨ Features
 
@@ -92,6 +92,7 @@ This addon is written **exclusively for the WoW 1.12.1 API** and avoids modern f
 ## 🔌 Compatibility
 
 - ✅ WoW 1.12.1
+- ✅ WoW 1.14.2 (thanks to **Maka** and some editing by **me**)
 - ✅ Enchanting profession
 - ✅ Works with pfUI
 
